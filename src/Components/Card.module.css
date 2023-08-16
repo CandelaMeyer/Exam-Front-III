@@ -1,0 +1,7 @@
+.containerResultado {
+    background-color: rgb(246, 244, 244);
+    font-weight: bold;
+    color: #dc3545;
+    border: solid 2px rgb(248, 250, 248);
+    width: 160px;
+}
